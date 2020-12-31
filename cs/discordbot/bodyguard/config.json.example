@@ -1,0 +1,6 @@
+{
+    "token" : "put token in here",
+    "prefix" : ",",
+    "overlordtoken" : "put token in here",
+    "overlordprefix" : "~"
+}
